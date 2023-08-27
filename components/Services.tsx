@@ -1,7 +1,11 @@
 import React from 'react';
 
 const Services = () => {
-  return <div>Services</div>;
+  return (
+    <section className="max-container flex justify-center flex-wrap gap-9">
+      Services
+    </section>
+  );
 };
 
 export default Services;
