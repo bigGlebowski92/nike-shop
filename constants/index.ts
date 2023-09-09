@@ -117,7 +117,7 @@ export const footerLinks = [
 ];
 
 export const socialMedia = [
-  { src: facebook, alt: 'facebook logo' },
-  { src: twitter, alt: 'twitter logo' },
-  { src: instagram, alt: 'instagram logo' },
+  { src: '/icons/facebook.svg', alt: 'facebook logo' },
+  { src: '/icons/twitter.svg', alt: 'twitter logo' },
+  { src: '/icons/instagram.svg', alt: 'instagram logo' },
 ];
